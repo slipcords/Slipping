@@ -645,6 +645,26 @@
     "Superior": {
       "name": "Superior",
       "id": "1003477997728313405"
+    },
+    "nightcord": {
+      "name": "Nightcord",
+      "id": "0"
+    },
+    "Bash": {
+      "name": "Bash",
+      "id": "1327483363518582784"
+    },
+    "coll": {
+      "name": "coll",
+      "id": "0"
+    },
+    "viciouscal": {
+      "name": "viciouscal",
+      "id": "0"
+    },
+    "Snayz": {
+      "name": ">Snayz",
+      "id": "1361345963175968779"
     }
   }
 }

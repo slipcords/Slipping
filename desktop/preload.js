@@ -1,4 +1,4 @@
-// Slipcord 6d2e5097c8689b14547ffcb33e7b3b952ddb0d02
+// Slipcord a3a44f392583302fdd07c785b6125aae6d27bd55
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
